@@ -24,21 +24,21 @@ This project analyzes sales performance and profitability using the Global Super
 ## 📄 Dashboard Description  
 
 ### 🏠 Overview Page  
-![Overview Dashboard](add-image-link-here)
+![Overview Dashboard](Dashboard_img_1.png)
 
 The first page provides a high-level overview of business performance, including key KPIs, sales and profit trends, regional analysis, and category-wise performance. It highlights top and bottom-performing sub-categories to identify overall patterns.
 
 ---
 
 ### 📉 Profit & Loss Analysis (Tables Focus)  
-![Tables Analysis](add-image-link-here)
+![Tables Analysis](Dashboard_img_2.png)
 
 The second page focuses on profit and loss analysis with emphasis on the Tables sub-category. It explores category performance, profit margins, and trends to identify Tables as a key loss-driving segment.
 
 ---
 
 ### 💸 Discount Impact View  
-![Discount Analysis](add-image-link-here)
+![Discount Analysis](Dashboard_img_3.png)
 
 The third view highlights performance when discounts are applied, showing how discounting affects profitability, particularly for the Tables sub-category.
 
